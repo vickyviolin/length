@@ -10,7 +10,7 @@ import java.util.HashMap;
 
 public class Convertor
 {
-  private String outputFilePath = "src/data/output.txt";
+  	private String outputFilePath = "src/data/output.txt";
 	private String inputFilePath = "src/data/input.txt";
 	private String authorInfo = "xiaoweivicky@yeah.net";
 
